@@ -69,10 +69,10 @@ Applied CV & NLP model architectures on real-world datasets.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8B0000&text_color=c9c9c9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d0d0d&ring=DC143C&fire=8B0000&currStreakLabel=DC143C" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rohith2717&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8B0000&text_color=c9c9c9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=YRohith2717&theme=radical&hide_border=true&background=0d0d0d&ring=DC143C&fire=8B0000&currStreakLabel=DC143C" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=c9c9c9" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith2717&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=c9c9c9" width="50%"/>
 
 </div>
 
@@ -81,7 +81,7 @@ Applied CV & NLP model architectures on real-world datasets.
 ## 「 Contribution Graph 」
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=DC143C&line=8B0000&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith2717&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=DC143C&line=8B0000&point=ffffff" width="100%"/>
 </div>
 
 <br/>
@@ -96,7 +96,7 @@ Applied CV & NLP model architectures on real-world datasets.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8B0000&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohith2717&color=8B0000&style=for-the-badge&label=VISITORS)
 
 </div>
 
