@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Rohith B
 
-<!--
-**Rohith2717/Rohith2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student
+Machine Learning | Deep Learning | Gen AI
+Python • FastAPI • Flask • React • MongoDB
 
-Here are some ideas to get you started:
+🚀 Worked on Projects like
+• Network Traffic Anomaly Detection
+• RAG Chatbot
+• Speech-to-Text using Whisper
+• Deep Learning Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+• LLMs
+• LangChain
+• Vector Databases
+• MLOps
+
+💻 Tech Stack
+(Python, C++, Java, FastAPI, Flask, React, MongoDB)
+
+📊 GitHub Stats
+
+🔥 Streak Stats
+
+📈 Contribution Graph
+
+🌐 Connect With Me
+LinkedIn: www.linkedin.com/in/rohith-b-637697300
+Portfolio: rohithb-portfolio.vercel.app
+Email: rohithbhojan@gmail.com
