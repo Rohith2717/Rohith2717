@@ -70,7 +70,7 @@ Applied CV & NLP model architectures on real-world datasets.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rohith2717&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=8B0000&text_color=c9c9c9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=YRohith2717&theme=radical&hide_border=true&background=0d0d0d&ring=DC143C&fire=8B0000&currStreakLabel=DC143C" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Rohith2717&theme=radical&hide_border=true&background=0d0d0d&ring=DC143C&fire=8B0000&currStreakLabel=DC143C" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith2717&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=c9c9c9" width="50%"/>
 
