@@ -1,16 +1,23 @@
 👋 Hi, I'm Rohith B
 
 AI & Data Science Student
+
 Machine Learning | Deep Learning | Gen AI
+
 Python • FastAPI • Flask • React • MongoDB
 
 🚀 Worked on Projects like
+
 • Network Traffic Anomaly Detection
+
 • RAG Chatbot
+
 • Speech-to-Text using Whisper
+
 • Deep Learning Projects
 
 🌱 Currently Learning
+
 • LLMs
 • LangChain
 • Vector Databases
