@@ -27,5 +27,5 @@ Python • FastAPI • Flask • React • MongoDB
 
 🌐 Connect With Me
 LinkedIn: www.linkedin.com/in/rohith-b-637697300
-Portfolio: rohithb-portfolio.vercel.app
+Portfolio: https://rohithb-portfolio.vercel.app
 Email: rohithbhojan@gmail.com
