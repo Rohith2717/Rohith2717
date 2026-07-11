@@ -8,7 +8,7 @@
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge&labelColor=111827)
 ![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-6366F1?style=for-the-badge&labelColor=111827)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&labelColor=111827)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&labelColor=111827)]([https://your-portfolio-link.com](https://rohithb-portfolio.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=111827)](https://linkedin.com/in/rohith-b-637697300)
 [![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&labelColor=111827)](mailto:rohithbhojan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&labelColor=111827)](https://github.com/Rohith2717)
